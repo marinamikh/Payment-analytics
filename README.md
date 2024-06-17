@@ -67,19 +67,19 @@ ORDER BY purchase_week ASC;
 
 Google Sheets docs
 
-Installments: https://docs.google.com/spreadsheets/d/1tRx3aVx43_JeCX8_oN0qkSypb-WZ650DQzgE4PraUNY/edit?usp=sharing
+Installments: https://docs.google.com/spreadsheets/d/1Mz8NoLXrUK1CG_8Lbu6fZ_xUWSQwMa25790rzILFJ2M/edit?usp=sharing
 
-Payment types/states: https://docs.google.com/spreadsheets/d/1M4banqcqGNypuesSt5pUvCjjpg6Ni6AsSgatQWbeRoc/edit?usp=sharing
+Payment types/states: https://docs.google.com/spreadsheets/d/1sEC7CslzUKdmJJuYGC41mzTY4V9ZSuyM-m3spgCItZU/edit?usp=sharing
 
-Payment type/revenue/number of orders: https://docs.google.com/spreadsheets/d/1JJjjhFCc7LCOWdykquFWLmb20Fo8d1pWgBoZT1Z6j3Q/edit?usp=sharing
+Payment type/revenue/number of orders: https://docs.google.com/spreadsheets/d/1U8_pyVIazBSeeGK2JHVDD6KodxOsxtDlMmf-S_UPvnY/edit?usp=sharing
 
-Seller city/revenue: https://docs.google.com/spreadsheets/d/1oKOnaYTRt228NsXPh_b8QtgQOqfyWqxe3XWWL3MB4K0/edit?usp=sharing
+Seller city/revenue: https://docs.google.com/spreadsheets/d/1zBxnnIf1BNcZtslBByVtk2xsV91NajFLcLb2wlfB3rM/edit?usp=sharing
 
-Seller state/revenue: https://docs.google.com/spreadsheets/d/1S5pBIFeANuk8lPRTYhpqKR771LbuQn0m9_O3kG3uSSc/edit?usp=sharing
+Seller state/revenue: https://docs.google.com/spreadsheets/d/1PCjaoy66p_GnEcplpbosNvW08D101WdS8mRv48nHk3g/edit?usp=sharing
 
-Delivery duration: https://docs.google.com/spreadsheets/d/1oqrH9JrTbikSq1zd1Eb0yRIK5R8JsLEd1gj_7tEPIN4/edit?usp=sharing
+Delivery duration: https://docs.google.com/spreadsheets/d/13RjDlS6_zdbXxlRH23BTZuwz0AQ-vzHSVa9Hdqs5ubk/edit?usp=sharing
 
-Product categories: https://docs.google.com/spreadsheets/d/1aOaiwIa7yJpmh4A6ADhrHfNO0808O1Lvf-CaS_UFHfI/edit?usp=sharing
+Product categories: https://docs.google.com/spreadsheets/d/1tU2AC7S3aU-wCxNXzSVddPu-GpovgowC29RtdXPejjU/edit?usp=sharing
 
 
 
